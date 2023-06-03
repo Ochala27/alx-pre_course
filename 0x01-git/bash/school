@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#!/bin/bash
-School
-=======
-echo The school is open
->>>>>>> update_script
-=======
+
 #!/bin/bash
 echo "The school is open"
 >>>>>>> update_script
